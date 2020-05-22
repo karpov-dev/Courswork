@@ -1,0 +1,3 @@
+<apex:page >
+    <c:TimeViewer GMTZone="0"></c:TimeViewer>
+</apex:page>

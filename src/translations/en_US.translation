@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label><!-- Hot Hotel --></label>
+        <name>Hot_Hotel</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Playground Starter --></label>
+        <name>Playground_Starter</name>
+    </customApplications>
+    <customLabels>
+        <label>Success!</label>
+        <name>Action_Success</name>
+    </customLabels>
+    <customLabels>
+        <label>Amount Bads</label>
+        <name>Amount_Bads</name>
+    </customLabels>
+    <customLabels>
+        <label>Booking Information</label>
+        <name>Booking_Information</name>
+    </customLabels>
+    <customLabels>
+        <label>The request was successfully left!</label>
+        <name>Booking_Success</name>
+    </customLabels>
+    <customLabels>
+        <label>Cancel</label>
+        <name>Cancel</name>
+    </customLabels>
+    <customLabels>
+        <label>Close</label>
+        <name>Close_Button</name>
+    </customLabels>
+    <customLabels>
+        <label>Contact Information</label>
+        <name>Contact_Information</name>
+    </customLabels>
+    <customLabels>
+        <label>End.</label>
+        <name>Content_End</name>
+    </customLabels>
+    <customLabels>
+        <label>Conveniences</label>
+        <name>Conveniences</name>
+    </customLabels>
+    <customLabels>
+        <label>Create Booking Card</label>
+        <name>Create_Booking_Card_Window</name>
+    </customLabels>
+    <customLabels>
+        <label>Create case</label>
+        <name>Create_Case_Window</name>
+    </customLabels>
+    <customLabels>
+        <label>Description</label>
+        <name>Description</name>
+    </customLabels>
+    <customLabels>
+        <label>Description (min 10 symbols)</label>
+        <name>Description_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Email --></label>
+        <name>Email</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Email Placeholder --></label>
+        <name>Email_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label>End Booking</label>
+        <name>End_Booking</name>
+    </customLabels>
+    <customLabels>
+        <label>Oh...</label>
+        <name>Error_Message_Title</name>
+    </customLabels>
+    <customLabels>
+        <label>Filters</label>
+        <name>Filters</name>
+    </customLabels>
+    <customLabels>
+        <label>First Name</label>
+        <name>First_Name</name>
+    </customLabels>
+    <customLabels>
+        <label>Reviews. HR - Hotel Rating. PR - Personal Rating</label>
+        <name>Hotel_Review_Header</name>
+    </customLabels>
+    <customLabels>
+        <label>Hotels</label>
+        <name>Hotels</name>
+    </customLabels>
+    <customLabels>
+        <label>Last Name</label>
+        <name>Last_Name</name>
+    </customLabels>
+    <customLabels>
+        <label>Loading...</label>
+        <name>Loading</name>
+    </customLabels>
+    <customLabels>
+        <label>Max Price</label>
+        <name>Max_Price</name>
+    </customLabels>
+    <customLabels>
+        <label>Message (min 25 symbols)</label>
+        <name>Message_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label>More</label>
+        <name>More</name>
+    </customLabels>
+    <customLabels>
+        <label>Next</label>
+        <name>Next</name>
+    </customLabels>
+    <customLabels>
+        <label>The hotel does not contain reviews.</label>
+        <name>Not_Hotel_Review</name>
+    </customLabels>
+    <customLabels>
+        <label>There are no hotels available at the moment.</label>
+        <name>Not_Hotels</name>
+    </customLabels>
+    <customLabels>
+        <label>Open in Map</label>
+        <name>Open_Map_Button</name>
+    </customLabels>
+    <customLabels>
+        <label>Personal Information</label>
+        <name>Personal_Information</name>
+    </customLabels>
+    <customLabels>
+        <label>Phone</label>
+        <name>Phone</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Phone Placeholder --></label>
+        <name>Phone_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label>Rating</label>
+        <name>Rating</name>
+    </customLabels>
+    <customLabels>
+        <label>Rent more</label>
+        <name>Rent_more</name>
+    </customLabels>
+    <customLabels>
+        <label>Room address</label>
+        <name>Room_Address</name>
+    </customLabels>
+    <customLabels>
+        <label>Room Name</label>
+        <name>Room_Name</name>
+    </customLabels>
+    <customLabels>
+        <label>Rooms</label>
+        <name>Rooms_Title</name>
+    </customLabels>
+    <customLabels>
+        <label>Start Booking</label>
+        <name>Start_Booking</name>
+    </customLabels>
+    <customLabels>
+        <label>Text</label>
+        <name>Text</name>
+    </customLabels>
+    <customLabels>
+        <label>Price</label>
+        <name>Unit_Price</name>
+    </customLabels>
+    <customLabels>
+        <label>Use map</label>
+        <name>Use_Map</name>
+    </customLabels>
+    <customLabels>
+        <label>We didn&apos;t find a user with this email address in the system. Fill in a few more fields.</label>
+        <name>User_Not_Found</name>
+    </customLabels>
+    <customLabels>
+        <label>The page has an error.</label>
+        <name>Wromg_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_BaseURL --></label>
+        <name>trlhdtips__tt_BaseURL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_EnterPackageId --></label>
+        <name>trlhdtips__tt_EnterPackageId</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_InvalidPackageId --></label>
+        <name>trlhdtips__tt_InvalidPackageId</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ResetPasswordFail --></label>
+        <name>trlhdtips__tt_ResetPasswordFail</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ResetPasswordSuccess --></label>
+        <name>trlhdtips__tt_ResetPasswordSuccess</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ResetPasswordTitle --></label>
+        <name>trlhdtips__tt_ResetPasswordTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ResetPasswordWarning --></label>
+        <name>trlhdtips__tt_ResetPasswordWarning</name>
+    </customLabels>
+    <customTabs>
+        <label><!-- Get Your Login Credentials --></label>
+        <name>Get_Your_Login_Credentials</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Install a Package --></label>
+        <name>Install_a_Package</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Welcome --></label>
+        <name>Welcome</name>
+    </customTabs>
+    <flowDefinitions>
+        <flows>
+            <fullName>Create_Review-4</fullName>
+            <screens>
+                <fields>
+                    <name>Email_Input_Field</name>
+                </fields>
+                <fields>
+                    <name>Email_Not_Find</name>
+                </fields>
+                <fields>
+                    <name>hello_Text</name>
+                </fields>
+                <name>Create_Review</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Hotel_Rating_Slider</name>
+                </fields>
+                <fields>
+                    <name>Personal_Rating_Slider</name>
+                </fields>
+                <fields>
+                    <name>Room_Rating_Slider</name>
+                </fields>
+                <name>Create_Review_Window</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Create_Rewviw_Text</name>
+                </fields>
+                <fields>
+                    <name>Description_Box</name>
+                </fields>
+                <fields>
+                    <name>Title_Box</name>
+                </fields>
+                <name>Hotel_Review_Window</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Select_Room_Pick</name>
+                </fields>
+                <name>Select_Room_Window</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Select_Hotel_Pick</name>
+                </fields>
+                <fields>
+                    <name>select_Hotel_Text</name>
+                </fields>
+                <name>Selectc_Hotel_Window</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Thank_You_Text</name>
+                </fields>
+                <name>Thank_You_Window</name>
+            </screens>
+        </flows>
+        <fullName>Create_Review</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <fullName>Opportunity_Actions-6</fullName>
+        </flows>
+        <fullName>Opportunity_Actions</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <fullName>Convert_Lead_To_Contact-2</fullName>
+        </flows>
+        <fullName>Convert_Lead_To_Contact</fullName>
+    </flowDefinitions>
+    <quickActions>
+        <label><!-- Guest Community Case --></label>
+        <name>GuestCommunityCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Community Case --></label>
+        <name>NewCommunityCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+</Translations>

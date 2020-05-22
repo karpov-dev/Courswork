@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Hotel Review</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Hotels Reviews </value>
+    </caseValues>
+    <fields>
+        <label><!-- Advantages --></label>
+        <name>Advantages__c</name>
+        <picklistValues>
+            <masterLabel>Бесплатный Wi-Fi</masterLabel>
+            <translation><!-- Бесплатный Wi-Fi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Быстрое обслуживание</masterLabel>
+            <translation><!-- Быстрое обслуживание --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Вежливый персонал</masterLabel>
+            <translation><!-- Вежливый персонал --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Вкусная еда</masterLabel>
+            <translation><!-- Вкусная еда --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Тихие соседи</masterLabel>
+            <translation><!-- Тихие соседи --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Auto Name --></label>
+        <name>Auto_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact --></label>
+        <name>Contact__c</name>
+        <relationshipLabel><!-- Hotels Reviews --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Disadvantages --></label>
+        <name>Disadvantages__c</name>
+        <picklistValues>
+            <masterLabel>Грубый персонал</masterLabel>
+            <translation><!-- Грубый персонал --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Медленное обслуживание</masterLabel>
+            <translation><!-- Медленное обслуживание --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Неудобное расположение</masterLabel>
+            <translation><!-- Неудобное расположение --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Шумные соседи</masterLabel>
+            <translation><!-- Шумные соседи --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Hotel Rating --></label>
+        <name>Hotel_Rating__c</name>
+    </fields>
+    <fields>
+        <label><!-- Hotel --></label>
+        <name>Hotel__c</name>
+        <relationshipLabel><!-- Hotels Reviews --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Personal Rating --></label>
+        <name>Personal_Rating__c</name>
+    </fields>
+    <fields>
+        <label><!-- Product Rating --></label>
+        <name>Product_Rating__c</name>
+    </fields>
+    <fields>
+        <label><!-- Product --></label>
+        <name>Product__c</name>
+        <relationshipLabel><!-- Hotels Reviews --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Review --></label>
+        <name>Review__c</name>
+    </fields>
+    <fields>
+        <label><!-- Title --></label>
+        <name>Title__c</name>
+    </fields>
+    <layouts>
+        <layout>Hotel Review Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

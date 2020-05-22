@@ -1,0 +1,8 @@
+<apex:component controller="TimeConverterController">
+    <apex:attribute name="GMTZone" type="Integer" assignTo="{!GMT}" required="true" description="Time Zone"/>
+
+    <apex:outputText value="{0,date,yyyy.MM.dd G 'at' HH:mm:ss}">
+        <apex:param value="{!GMTTime}"/>
+    </apex:outputText>
+
+</apex:component>

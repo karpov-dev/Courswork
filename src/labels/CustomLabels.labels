@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Action_Success</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Action Success</shortDescription>
+        <value>Success!</value>
+    </labels>
+    <labels>
+        <fullName>Amount_Bads</fullName>
+        <categories>Filters</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Amount Bads</shortDescription>
+        <value>Amount Bads</value>
+    </labels>
+    <labels>
+        <fullName>Booking_Information</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Booking Information</shortDescription>
+        <value>Booking Information</value>
+    </labels>
+    <labels>
+        <fullName>Booking_Success</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Booking Success</shortDescription>
+        <value>The request was successfully left!</value>
+    </labels>
+    <labels>
+        <fullName>Cancel</fullName>
+        <categories>Buttons</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Cancel</shortDescription>
+        <value>Cancel</value>
+    </labels>
+    <labels>
+        <fullName>Close_Button</fullName>
+        <categories>Buttons</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Close_Button</shortDescription>
+        <value>Close</value>
+    </labels>
+    <labels>
+        <fullName>Contact_Information</fullName>
+        <categories>Window Step</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Contact Information</shortDescription>
+        <value>Contact Information</value>
+    </labels>
+    <labels>
+        <fullName>Content_End</fullName>
+        <categories>Messages</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Content End</shortDescription>
+        <value>End.</value>
+    </labels>
+    <labels>
+        <fullName>Conveniences</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Conveniences</shortDescription>
+        <value>Conveniences</value>
+    </labels>
+    <labels>
+        <fullName>Create_Booking_Card_Window</fullName>
+        <categories>Window</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Create Booking Card Window</shortDescription>
+        <value>Create Booking Card</value>
+    </labels>
+    <labels>
+        <fullName>Create_Case_Window</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Create Case Window</shortDescription>
+        <value>Create case</value>
+    </labels>
+    <labels>
+        <fullName>Description</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Description</shortDescription>
+        <value>Description</value>
+    </labels>
+    <labels>
+        <fullName>Description_Placeholder</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Description Placeholder</shortDescription>
+        <value>Description (min 10 symbols)</value>
+    </labels>
+    <labels>
+        <fullName>Email</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Email</shortDescription>
+        <value>Email</value>
+    </labels>
+    <labels>
+        <fullName>Email_Placeholder</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Email Placeholder</shortDescription>
+        <value>youremail@gmil.com</value>
+    </labels>
+    <labels>
+        <fullName>End_Booking</fullName>
+        <categories>Filters</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>End Booking</shortDescription>
+        <value>End Booking</value>
+    </labels>
+    <labels>
+        <fullName>Error_Message_Title</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error Message Title</shortDescription>
+        <value>Oh...</value>
+    </labels>
+    <labels>
+        <fullName>Filters</fullName>
+        <categories>Filters</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Filters</shortDescription>
+        <value>Filters</value>
+    </labels>
+    <labels>
+        <fullName>First_Name</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>First Name</shortDescription>
+        <value>First Name</value>
+    </labels>
+    <labels>
+        <fullName>Hotel_Review_Header</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Hotel Review Header</shortDescription>
+        <value>Reviews. HR - Hotel Rating. PR - Personal Rating</value>
+    </labels>
+    <labels>
+        <fullName>Hotels</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Hotels</shortDescription>
+        <value>Hotels</value>
+    </labels>
+    <labels>
+        <fullName>Last_Name</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Last Name</shortDescription>
+        <value>Last Name</value>
+    </labels>
+    <labels>
+        <fullName>Loading</fullName>
+        <categories>Messages</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Loading</shortDescription>
+        <value>Loading...</value>
+    </labels>
+    <labels>
+        <fullName>Max_Price</fullName>
+        <categories>Filters</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Max Price</shortDescription>
+        <value>Max Price</value>
+    </labels>
+    <labels>
+        <fullName>Message_Placeholder</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Message Placeholder</shortDescription>
+        <value>Message (min 25 symbols)</value>
+    </labels>
+    <labels>
+        <fullName>More</fullName>
+        <categories>Buttons</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>More</shortDescription>
+        <value>More</value>
+    </labels>
+    <labels>
+        <fullName>Next</fullName>
+        <categories>Buttons</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Next</shortDescription>
+        <value>Next</value>
+    </labels>
+    <labels>
+        <fullName>Not_Hotel_Review</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Not Hotel Review</shortDescription>
+        <value>The hotel does not contain reviews.</value>
+    </labels>
+    <labels>
+        <fullName>Not_Hotels</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Not Hotels</shortDescription>
+        <value>There are no hotels available at the moment.</value>
+    </labels>
+    <labels>
+        <fullName>Open_Map_Button</fullName>
+        <categories>Buttons</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Open_Map_Button</shortDescription>
+        <value>Open Map</value>
+    </labels>
+    <labels>
+        <fullName>Personal_Information</fullName>
+        <categories>Window Step</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Personal Information</shortDescription>
+        <value>Personal Information</value>
+    </labels>
+    <labels>
+        <fullName>Phone</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Phone</shortDescription>
+        <value>Phone</value>
+    </labels>
+    <labels>
+        <fullName>Phone_Placeholder</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Phone Placeholder</shortDescription>
+        <value>+123456789101</value>
+    </labels>
+    <labels>
+        <fullName>Rating</fullName>
+        <categories>Filters</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Rating</shortDescription>
+        <value>Rating</value>
+    </labels>
+    <labels>
+        <fullName>Rent_more</fullName>
+        <categories>Buttons</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Rent more</shortDescription>
+        <value>Rent more</value>
+    </labels>
+    <labels>
+        <fullName>Room_Address</fullName>
+        <categories>Rooms</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Room Address</shortDescription>
+        <value>Room address</value>
+    </labels>
+    <labels>
+        <fullName>Room_Name</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Room Name</shortDescription>
+        <value>Room Name</value>
+    </labels>
+    <labels>
+        <fullName>Rooms_Title</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Rooms Title</shortDescription>
+        <value>Rooms</value>
+    </labels>
+    <labels>
+        <fullName>Start_Booking</fullName>
+        <categories>Filters</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Start Booking</shortDescription>
+        <value>Start Booking</value>
+    </labels>
+    <labels>
+        <fullName>Text</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Text</shortDescription>
+        <value>Text</value>
+    </labels>
+    <labels>
+        <fullName>Unit_Price</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Unit Price</shortDescription>
+        <value>Unit Price</value>
+    </labels>
+    <labels>
+        <fullName>Use_Map</fullName>
+        <categories>Buttons</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Use Map</shortDescription>
+        <value>Use map</value>
+    </labels>
+    <labels>
+        <fullName>User_Not_Found</fullName>
+        <categories>Content</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>User Not Found</shortDescription>
+        <value>We didn&apos;t find a user with this email address in the system. Fill in a few more fields.</value>
+    </labels>
+    <labels>
+        <fullName>Wromg_Message</fullName>
+        <categories>Messages</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Wromg Message</shortDescription>
+        <value>The page has an error</value>
+    </labels>
+</CustomLabels>
